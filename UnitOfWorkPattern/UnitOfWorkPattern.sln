@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UnitOfWorkPattern", "UnitOfWorkPattern\UnitOfWorkPattern.shproj", "{3376C7A9-1B68-42C4-851F-ECF71B1BF769}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		UnitOfWorkPattern\UnitOfWorkPattern.projitems*{3376c7a9-1b68-42c4-851f-ecf71b1bf769}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB59E39-AD48-453B-BE18-A7FB72C59B69}
+	EndGlobalSection
+EndGlobal
