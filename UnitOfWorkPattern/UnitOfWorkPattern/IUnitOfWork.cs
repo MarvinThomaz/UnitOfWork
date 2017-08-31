@@ -1,6 +1,6 @@
 ﻿namespace UnitOfWorkPattern
 {
-    interface IUnitOfWork : ITransactionManger
+    interface IUnitOfWork : ITransactionManager
     {
         IPersonRepository PersonRepository { get; }
         IAddressRepository AddressRepository { get; }
